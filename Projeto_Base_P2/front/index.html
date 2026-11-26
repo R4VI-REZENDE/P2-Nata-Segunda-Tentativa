@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Atividades Formativas</title>
+
+  <link rel="stylesheet" href="vendor/bootstrap/bootstrap.min.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <div class="container">
+
+        <a class="navbar-brand fw-bold" href="#inicio">
+          Atividades Formativas
+        </a>
+
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#menuPrincipal"
+          aria-controls="menuPrincipal"
+          aria-expanded="false"
+          aria-label="Abrir menu">
+
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div id="menuPrincipal" class="collapse navbar-collapse">
+          <div class="navbar-nav ms-auto">
+            <a class="nav-link" href="#inicio">Início</a>
+            <a class="nav-link" href="#conteudo">Conteúdo</a>
+            <a class="nav-link" href="#interacao">Interação</a>
+          </div>
+        </div>
+
+      </div>
+    </nav>
+  </header>
+
+  <main>
+
+    <section id="inicio" class="py-5">
+      <div class="container">
+        <div class="row align-items-center">
+
+          <div class="col-lg-8">
+            <h1 class="display-5 fw-bold">
+              Atividades Formativas
+            </h1>
+
+            <p class="lead">
+              Consulte e interaja com as informações disponíveis.
+            </p>
+
+            <!-- Os alunos poderão adaptar esta área conforme a proposta recebida -->
+            <a href="#conteudo" class="btn btn-primary">
+              Acessar conteúdo
+            </a>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <section id="feedback" class="container">
+      <div
+        id="mensagem"
+        class="alert d-none"
+        role="alert"
+        aria-live="polite">
+      </div>
+
+      <div
+        id="carregando"
+        class="alert alert-info d-none"
+        role="status">
+        Carregando informações...
+      </div>
+    </section>
+
+    <section id="conteudo" class="container py-5">
+
+      <div class="mb-4">
+        <h2>Conteúdo</h2>
+        <p class="text-secondary">
+          As informações deverão ser carregadas pela aplicação.
+        </p>
+      </div>
+
+      <!-- Área livre para cards, tabela ou outro formato escolhido pelo aluno -->
+      <div
+        id="areaConteudo"
+        class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+      </div>
+
+    </section>
+
+    <section id="interacao" class="container pb-5">
+
+      <div class="mb-4">
+        <h2>Área de interação</h2>
+        <p class="text-secondary">
+          Utilize esta área para criar os recursos necessários da atividade.
+        </p>
+      </div>
+
+      <!-- Área livre para formulário, botões, filtros ou outros componentes -->
+      <div id="areaInteracao"></div>
+
+    </section>
+
+  </main>
+
+  <footer class="border-top py-4 text-center text-secondary">
+    <div class="container">
+      Projeto prático — Desenvolvimento Web e Mobile I
+    </div>
+  </footer>
+
+  <script src="vendor/bootstrap/bootstrap.bundle.min.js"></script>
+  <script src="script.js"></script>
+
+</body>
+</html>
