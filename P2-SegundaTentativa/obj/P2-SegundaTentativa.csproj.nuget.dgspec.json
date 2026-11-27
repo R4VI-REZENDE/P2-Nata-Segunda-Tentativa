@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Unigran\\Downloads\\Projeto_Base_P2_atualizado\\Projeto_Base_P2\\P2-SegundaTentativa\\P2-SegundaTentativa.csproj": {}
+    "c:\\Users\\Unigran\\Downloads\\Projeto_Base_P2_atualizado\\Projeto_Base_P2\\P2-SegundaTentativa\\P2-SegundaTentativa.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Unigran\\Downloads\\Projeto_Base_P2_atualizado\\Projeto_Base_P2\\P2-SegundaTentativa\\P2-SegundaTentativa.csproj": {
+    "c:\\Users\\Unigran\\Downloads\\Projeto_Base_P2_atualizado\\Projeto_Base_P2\\P2-SegundaTentativa\\P2-SegundaTentativa.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Unigran\\Downloads\\Projeto_Base_P2_atualizado\\Projeto_Base_P2\\P2-SegundaTentativa\\P2-SegundaTentativa.csproj",
+        "projectUniqueName": "c:\\Users\\Unigran\\Downloads\\Projeto_Base_P2_atualizado\\Projeto_Base_P2\\P2-SegundaTentativa\\P2-SegundaTentativa.csproj",
         "projectName": "P2-SegundaTentativa",
-        "projectPath": "C:\\Users\\Unigran\\Downloads\\Projeto_Base_P2_atualizado\\Projeto_Base_P2\\P2-SegundaTentativa\\P2-SegundaTentativa.csproj",
+        "projectPath": "c:\\Users\\Unigran\\Downloads\\Projeto_Base_P2_atualizado\\Projeto_Base_P2\\P2-SegundaTentativa\\P2-SegundaTentativa.csproj",
         "packagesPath": "C:\\Users\\Unigran\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Unigran\\Downloads\\Projeto_Base_P2_atualizado\\Projeto_Base_P2\\P2-SegundaTentativa\\obj\\",
+        "outputPath": "c:\\Users\\Unigran\\Downloads\\Projeto_Base_P2_atualizado\\Projeto_Base_P2\\P2-SegundaTentativa\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Unigran\\AppData\\Roaming\\NuGet\\NuGet.Config"

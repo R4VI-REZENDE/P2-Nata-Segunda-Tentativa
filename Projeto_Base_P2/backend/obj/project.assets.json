@@ -452,21 +452,21 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Unigran\\Downloads\\Projeto_Base_P2 (2) (1)\\Projeto_Base_P2\\backend\\BibliotecaApi.csproj",
+      "projectUniqueName": "c:\\Users\\Unigran\\Downloads\\Projeto_Base_P2_atualizado\\Projeto_Base_P2\\Projeto_Base_P2\\backend\\BibliotecaApi.csproj",
       "projectName": "BibliotecaApi",
-      "projectPath": "C:\\Users\\Unigran\\Downloads\\Projeto_Base_P2 (2) (1)\\Projeto_Base_P2\\backend\\BibliotecaApi.csproj",
+      "projectPath": "c:\\Users\\Unigran\\Downloads\\Projeto_Base_P2_atualizado\\Projeto_Base_P2\\Projeto_Base_P2\\backend\\BibliotecaApi.csproj",
       "packagesPath": "C:\\Users\\Unigran\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Unigran\\Downloads\\Projeto_Base_P2 (2) (1)\\Projeto_Base_P2\\backend\\obj\\",
+      "outputPath": "c:\\Users\\Unigran\\Downloads\\Projeto_Base_P2_atualizado\\Projeto_Base_P2\\Projeto_Base_P2\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Unigran\\Downloads\\Projeto_Base_P2 (2) (1)\\Projeto_Base_P2\\backend\\NuGet.Config",
+        "c:\\Users\\Unigran\\Downloads\\Projeto_Base_P2_atualizado\\Projeto_Base_P2\\Projeto_Base_P2\\backend\\NuGet.Config",
         "C:\\Users\\Unigran\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
       ],
       "sources": {
-        "C:\\Users\\Unigran\\Downloads\\Projeto_Base_P2 (2) (1)\\Projeto_Base_P2\\backend\\packages": {}
+        "c:\\Users\\Unigran\\Downloads\\Projeto_Base_P2_atualizado\\Projeto_Base_P2\\Projeto_Base_P2\\backend\\packages": {}
       },
       "frameworks": {
         "net10.0": {
