@@ -10,6 +10,7 @@ Projeto acadêmico de Desenvolvimento Web e Mobile I. O repositório contém uma
 | Ravi Rezende | 114.051 |
 | Daniel Virgilio | 114.063 |
 | Allan Fernandes | 114.090 |
+| Gustavo Santos | 114.049 |
 
 ## Estrutura do projeto
 
